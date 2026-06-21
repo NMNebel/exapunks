@@ -17,13 +17,13 @@ Meine Lösungen sind (noch) nicht optimiert bzgl. Cycles, Size (und Activity), w
 
 |      | Job                                                | GIF                                            | Axiom                                            | Cycles | Size | Activity |
 | ---- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ------ | ---- | -------- |
-| #1   | TWN: Tutorial 1                                    | GIF                                            | EXA                                              | 4      | 4    | 4        |
-| #2   | TWN: Tutorial 2                                    | GIF                                            | EXAs                                             | 9      | 9    | 2        |
-| #3   | TWN: Tutorial 3                                    | GIF                                            | EXAs                                             | 11     | 15   | 4        |
-| #4   | TWN: Tutorial 4                                    | GIF                                            | EXAs                                             | 407    | 12   | 2        |
-| #5   | Euclid’s pizza - Order System                      | [GIF](loeungen/euclids-pizza-1.gif)            | EXAs                                             | 28     | 16   | 1        |
-| #6   | Mitsuzen HDI-10 - Left Arm                         | GIF                                            | EXAs                                             | 250    | 24   | 6        |
-| #7   | Last Stop Snaxnet - Factory 11                     | GIF                                            | EXAs                                             | 29     | 11   | 2        |
-| #8   | Zebros Copies - Point-of-Sale System               | GIF                                            | EXAs                                             | 106    | 25   | 4        |
+| #1   | TWN: Tutorial 1                                    | [GIF](loesungen/trash-world-news-1.gif)        | -                                                | 4      | 4    | 4        |
+| #2   | TWN: Tutorial 2                                    | [GIF](loesungen/trash-world-news-2.gif)        | -                                                | 9      | 9    | 2        |
+| #3   | TWN: Tutorial 3                                    | [GIF](loesungen/trash-world-news-3.gif)        | -                                                | 11     | 15   | 4        |
+| #4   | TWN: Tutorial 4                                    | [GIF](loesungen/trash-world-news-4.gif)        | -                                                | 407    | 12   | 2        |
+| #5   | Euclid’s pizza - Order System                      | [GIF](loeungen/euclids-pizza-1.gif)            | [EXAs](loesungen/euclids-pizza-1.axio)           | 28     | 16   | 1        |
+| #6   | Mitsuzen HDI-10 - Left Arm                         | [GIF](loesungen/mitsuzen-hdi10-1.gif)          | [EXAs](loesungen/mitsuzen-hdi10-1.axio)          | 250    | 24   | 6        |
+| #7   | Last Stop Snaxnet - Factory 11                     | [GIF](/loesungen/last-stop-snaxnet-1.gif)      | [EXAs](loesungen/last-stop-snaxnet-1.axio)       | 29     | 11   | 2        |
+| #8   | Zebros Copies - Point-of-Sale System               | [GIF](loesungen/zebros-copies-3.gif)           | [EXAs](loesungen/zebros-copies-3.axio)           | 106    | 25   | 4        |
 | #9   | SFCTA Highway Sign #4902 - Remote Access Interface | [GIF](loesungen/sfcta-highway-sign-4902-1.gif) | [EXAs](loesungen/sfcta-highway-sign-4902-1.axio) | 353    | 15   | 1        |
 | #10  | Unknown Network 1 - Unknown Context                | GIF                                            | EXAs                                             |        |      |          |
